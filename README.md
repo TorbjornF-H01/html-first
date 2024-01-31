@@ -1,2 +1,2 @@
 # html-first
-Html first github code
+Html and css first project
